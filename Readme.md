@@ -1,3 +1,6 @@
+Loosely based on 
+https://www.elastic.co/blog/a-practical-introduction-to-logstash
+
 Start logstash using named config file, with refresh
 ```
 logstash -r -f ./plain.conf
